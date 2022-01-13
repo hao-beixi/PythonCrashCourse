@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Chapter11_testing_your_code"
+    ]
+}
