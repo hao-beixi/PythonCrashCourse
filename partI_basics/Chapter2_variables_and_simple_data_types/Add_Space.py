@@ -1,0 +1,5 @@
+print("python")
+print("\tpython")
+print("\npython")
+print("python\n")
+print("Languages:\n\tPython\n\tC\n\tJavascript")
